@@ -121,3 +121,17 @@ house-price-prediction-ml/
 ├── insurance_regression_model.ipynb  # Full ML pipeline notebook
 
 └── README.md                         # Project documentation
+
+## 📝 Final Summary
+
+This project successfully built and evaluated a complete machine learning regression
+pipeline to predict house prices in INR using real estate data. Among all the models
+tested, Random Forest emerged as the best performer with the highest R² score (~0.94)
+and lowest RMSE, proving that ensemble methods handle non-linear property price patterns
+far better than linear approaches. Regularization techniques like Ridge and Lasso
+effectively controlled overfitting in linear models, while cross-validation strategies
+ensured that hyperparameter tuning was reliable and free from data leakage. The analysis
+revealed that area in square feet, location score, and crime rate index are the most
+influential factors in determining house prices. Overall, this pipeline demonstrates a
+structured and practical approach to solving real-world regression problems using
+industry-standard machine learning techniques.
