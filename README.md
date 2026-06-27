@@ -110,26 +110,6 @@ Data Loading → EDA → Cleaning → Feature Engineering
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/your-username/house-price-prediction-ml.git
-cd house-price-prediction-ml
-```
-
-2. **Install dependencies**
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-3. **Run the notebook**
-- Open `insurance_regression_model.ipynb` in Jupyter Notebook or VS Code
-- Update the dataset path in Step 2 to match your local file location
-- Run all cells from top to bottom
-
----
-
 ## 📌 Project Structure
 
 house-price-prediction-ml/
